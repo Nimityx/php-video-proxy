@@ -8,7 +8,7 @@ Example: [https://youtube-downloader3.herokuapp.com/stream.php?url=https%3A%2F%2
 Try this proxy: https://nimityx.github.io/tools/video-proxy.html
 
 ## Thanks
-Thanks to https://github.com/Athlon1600/youtube-downloader for his awesome open-source projects that helped me along the way.
+Thanks to https://github.com/Athlon1600/youtube-downloader for his awesome open-source project.
 
 ## LICENSE
 [MIT](https://github.com/Nimityx/php-video-proxy/blob/main/LICENSE)
